@@ -1,3 +1,3 @@
 # Assignments on Javascript
 
-This is a repository for my javascript assignments
+This is a repository for my javascript assignments.
